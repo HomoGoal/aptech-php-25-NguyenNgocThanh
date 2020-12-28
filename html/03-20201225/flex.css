@@ -1,0 +1,15 @@
+.div-mot {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+}
+.div-hai {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+}
+.div-cha {
+    display: flex;
+   flex direction: row;
+   justify content: center;
+}

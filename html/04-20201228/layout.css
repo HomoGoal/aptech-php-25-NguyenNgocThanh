@@ -1,0 +1,29 @@
+.dau {
+    height: 300px;
+    background-color: red;
+}
+.than {
+    height: 300px;
+    background-color: blue;
+    display: flex;
+    felx-direction: row;
+}
+.than-mot {
+    height: 120px;
+    width: 35%;
+    background-color: green
+}
+.than-giua{
+    height: 120px;
+    width: 15%;
+}
+.than-hai {
+    height: 200px;
+    width: 50%;
+    background-color: grey;
+}
+.chan {
+    height: 300px;
+    background-color: pink;
+    text-align: center;
+}
