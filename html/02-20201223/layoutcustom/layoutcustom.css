@@ -1,0 +1,115 @@
+.dau {
+    background-color: orange;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+}
+.dau-1 {
+    background-color: blue;
+    height: 50px;
+    width: 54%;
+}
+.dau-2 {
+    background-color: orange;
+    height: 50px;
+    width: 7%;
+}
+.dau-3 {
+    background-color: blue;
+    height: 50px;
+    width: 25%;
+}
+.than {
+    background-color: grey;
+    height: 200px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.than-1 {
+    background-color:grey;
+    height:200px;
+    width: 55%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.than11 {
+    background-color: blue;
+    height: 15.15%;
+    width: 80%;
+}
+.than12 {
+    background-color:grey;
+    height: 24.24%;
+    width: 80%;
+}
+.than13 {
+    background-color:blue;
+    height: 35.45% ;
+    width: 80%;
+}
+.than-2 {
+    background-color: grey;
+    height:200px;
+    width: 45%;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items:center;
+}
+.than21 {
+    background-color: blue;
+    height: 75.75%;
+    width: 40%;
+}
+.than22 {
+    background-color: grey;
+    height: 80px;
+    width: 10%;
+}
+.than23 {
+    background-color: blue;
+    height: 75.75%;
+    width: 40%;
+}
+.chan {
+    background-color: blue;
+    height: 70px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.chan-1 {
+    background-color:white;
+    height: 2px;
+    width: 27%;
+}
+.chan-2 {
+    background-color:blue;
+    height: 2px;
+    width: 5%;
+}
+.chan-3 {
+    background-color:white;
+    height: 2px;
+    width: 27%;
+}
+.chan-4 {
+    background-color:blue;
+    height: 2px;
+    width: 5%;
+}
+.chan-5 {
+    background-color:white;
+    height: 2px;
+    width: 27%;
+}
+
