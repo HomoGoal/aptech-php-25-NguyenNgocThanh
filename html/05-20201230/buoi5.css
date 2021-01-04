@@ -1,0 +1,24 @@
+.divcha {
+height: 700px;
+width: 1000px;
+    display: flex;
+    flex-direction: row;
+}
+.div1 {
+height:100%;
+width:55%;
+background-color: red;
+}
+.div2{
+height:100%;
+    width:45%;
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.row{
+    height:600px;
+    width:2000px;
+}
+

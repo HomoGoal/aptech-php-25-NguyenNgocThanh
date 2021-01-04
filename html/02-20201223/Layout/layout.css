@@ -18,11 +18,13 @@
     background-color: green;
     height: 300px;
     width: 25%;
+    
 }
 .than-hai {
     background-color: blue;
     height: 300px;
     width: 75%;
+    
 }
 .chan {
     background-color: grey;
@@ -33,4 +35,18 @@
     justify-content: center;
     text-align: center;
 
+}
+.what {
+    margin-top:10px;
+    margin-left:10px;
+}
+.h-dau {
+    font-size: 100px;
+    color: white;
+}
+.baiviet {
+    margin-left: 20px;
+}
+.london{
+    margin-left: 20px;
 }

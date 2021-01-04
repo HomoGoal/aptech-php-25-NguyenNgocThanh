@@ -1,0 +1,26 @@
+.cha {
+    height:200px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.con1{
+    height:100px;
+    width: 20%;
+    background-color: brown;
+    border-top-left-radius:15px;
+    border-bottom-left-radius:15px;
+}
+.con2{
+    height:200px;
+    width: 25%;
+    background-color:black;
+    border-bottom-left-radius:53%;
+}
+.con4{
+    height:200px;
+    width:55%;
+    background-color:black;
+    border-bottom-right-radius: 100%;
+}
+
