@@ -1,0 +1,37 @@
+.Cha {
+    &__con-mot {
+        &--width{
+            width: 100px;
+        }
+        &--height{
+            height: 100px;
+        }
+        &--bg {
+            background-color: red;
+        }
+    }
+}
+.me {
+    &__con-mot{
+        &--width {
+            width: 200px;
+        }
+        &--height{
+            height: 200px;
+        }
+        &--bg {
+            background-color: blue;
+        }
+    }
+    &__con-hai{
+        &--width{
+            width:300px;
+        }
+        &--height{
+            height:150px;
+        }
+        &--bg{
+            background-color: yellow;
+        }
+    }
+}

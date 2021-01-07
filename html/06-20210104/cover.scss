@@ -1,0 +1,23 @@
+.body{
+    height:100vh;
+}
+.header{
+    height:25%;
+    &__ul{
+        &__li{
+            &-first{
+                &--border-bottom-white{
+                    border-bottom:5px solid white;
+                    text-decoration: none;
+                }
+            }
+        }
+    }
+}
+.content{
+    height:50%;
+}
+.footer{
+    height:25%;
+}
+  

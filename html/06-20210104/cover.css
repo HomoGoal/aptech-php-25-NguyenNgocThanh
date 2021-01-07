@@ -1,0 +1,21 @@
+.body {
+  height: 100vh;
+}
+
+.header {
+  height: 25%;
+}
+
+.header__ul__li-first--border-bottom-white {
+  border-bottom: 5px solid white;
+  text-decoration: none;
+}
+
+.content {
+  height: 50%;
+}
+
+.footer {
+  height: 25%;
+}
+/*# sourceMappingURL=cover.css.map */
