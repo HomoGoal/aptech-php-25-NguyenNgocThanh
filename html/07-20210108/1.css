@@ -1,0 +1,47 @@
+body{
+    height:100vh;
+}
+.contentmot{
+    height:66.66%
+}
+.contentmotmot{
+    height:50%;
+}
+.contentmothai{
+    height:50%;
+}
+.contenthai{
+    height:33.33%;
+}
+@media screen and (min-width:768px){
+.header{
+    display: flex;
+    flex-direction: row!important;
+}
+.content{
+    display:flex;
+    flex-direction: column !important;
+}
+.contentmot{
+    display:flex;
+    flex-direction: row!important;
+}
+}
+@media screen and (min-width: 1200px){
+    .content{
+        display: flex;
+        flex-direction: row!important;
+    }
+    .contentmot{
+        width:66.66%;
+    }
+    .contentmotmot{
+        width:50%;
+    }
+    .contentmothai{
+        width:50%;
+    }
+    .contenthai{
+        width:33.33%;
+    }
+}

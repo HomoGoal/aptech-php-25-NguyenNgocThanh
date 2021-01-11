@@ -1,0 +1,86 @@
+.container-fluid{
+    height:100vh;
+}
+.mot{
+    width:100%;
+    display:flex;
+    flex-direction: column;
+}
+
+.hai{
+    display:flex;
+    flex-direction: column;
+}
+.hai-mot{
+    display:flex;
+    flex-direction:column !important;
+}
+
+@media screen and (min-width: 768px){
+    .mot{
+        display:flex;
+        flex-direction:row !important;
+       
+    }
+ .mot-mot{
+     width:50%;
+     height:30%;
+ }   
+ .mot-hai{
+    width:50%;
+    height:30%;
+}
+.hai-mot{
+    display: flex;
+    flex-direction:row !important;
+    height:70%;
+    width:100%;
+}
+.hai-mot-mot{
+    width:50%;
+}
+.hai-mot-hai{
+    width:50%;
+}
+}
+@media screen and (min-width: 1200px){
+    .mot{
+        display:flex;
+        flex-direction:row;
+     
+    }
+ .mot-mot{
+     width:50%;
+     height:100%;
+     
+ }   
+ .mot-hai{
+    width:50%;
+    height:100%;
+    
+}
+.hai-mot{
+    display: flex;
+    flex-direction:row !important;
+    width:66.66%;
+}
+.hai {
+    height:30%;
+    width:100%;
+    display:flex;
+    flex-direction: row !important;
+}
+.hai-mot-mot{
+    width:50%;
+}
+.hai-mot-hai{
+    width:50%;
+}
+.hai-hai{
+    width:33.33%;
+}
+}
+ .chieu{
+     height:100px;
+     width:100%;
+ }

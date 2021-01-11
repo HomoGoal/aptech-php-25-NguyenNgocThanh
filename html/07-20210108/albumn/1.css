@@ -1,0 +1,130 @@
+body{
+    height:100vh;
+}
+.not{
+    color:white !important;
+}
+.nothai{
+    color:white !important;
+}
+.notba{
+    color:white !important;
+}
+.HOV{
+    font-size:20px;
+    font-weight:800;
+    color:white !important;
+   
+}
+.nut{
+    height:40px;
+    width:56px;
+    border:0.5px solid gray ;
+    border-radius:5px;
+
+}
+.thanh{
+    background-color:gray;
+    border:1px solid gray;
+}
+.thanhmot{
+    background-color:gray;
+    border:1px solid gray;
+    margin-top:5px;
+}
+.thanhhai{
+    background-color:gray;
+    border:1px solid gray;
+    margin-top:5px;
+}
+.about{
+    font-size:25px;
+}
+.chu{
+    font-size:19px;
+    font-weight:200;
+}
+.fuck{
+    border:0;
+    border-radius:5px;
+}
+.hophop{
+    height:400px;
+    width:90%;
+    margin-top: 50px;
+    border:1px solid gray;
+}
+.hophop2{
+    height:400px;
+    width:90%;
+    margin-top: 25px;
+    border:1px solid gray;
+}
+.box1{
+    height:55%;
+    
+}
+.box2{
+    height:45%;
+    
+}
+.view{
+    height:30px;
+    width:60px;
+    border:1px solid gray;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.view:hover{
+    background-color: gray;
+    color:white !important;
+}
+.Edit{
+    height:30px;
+    width:60px;
+    border:1px solid gray;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.Edit:hover{
+    background-color: gray;
+    color:white !important;
+}
+.box21{
+    height:70%;
+}
+.box22{
+    height:30%;
+}
+.chinphut{
+    margin-left: 190px;
+}
+
+.chan{
+    height:80px;
+}
+.chanduoi{
+    height:100px;
+}
+@media screen and (min-width:1200px){
+    .hophop{
+        height:370px;
+        width:25%;
+        margin-top:40px !important;
+        margin-right:25px;
+    }
+    .hophop2{
+        height:370px;
+        width:25%;
+        margin-top:40px !important;
+        margin-right:25px;
+    }
+    .chinphut{
+        margin-left: 145px !important;
+    }
+    .chanmot{
+        margin-left:500px;
+       
+    }
+}
+
