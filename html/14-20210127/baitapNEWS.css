@@ -1,0 +1,54 @@
+.nut{
+    height:50px;
+    width:50px;
+}
+.nut:hover{
+    background-color: green !important;
+}
+.hinh1{
+    background-image:url('https://www.ibsafoundation.org/wp-content/uploads/2018/08/oceano.jpg');
+    height:200px;
+}
+.hinh2{
+    background-image:url('https://oceanfdn.org/wp-content/uploads/2010/08/SargassoSea.jpg');
+    height:200px;
+}
+.hinh3{
+    height:200px;
+}
+.hinhhinh{
+    
+    height:250px;
+}
+.hinhhinh2{
+    background-color:blue;
+    height:250px;
+    margin-top:10px;
+}
+.abc{
+    height:250px;
+   
+    background-color:orange;
+}
+.abc2{
+    height:250px;
+    margin-top:10px;
+    background-color:green;
+}
+.trungtam{
+    height:50px;
+    width:150px;
+}
+.note{
+    height:35%;
+}
+.note2 {
+    height:15%;
+}
+.pic{
+    height:250px;
+    background-image:url('https://oceanfdn.org/wp-content/uploads/2010/08/SargassoSea.jpg');
+}
+.box1{
+    background-color: lightgray;
+}

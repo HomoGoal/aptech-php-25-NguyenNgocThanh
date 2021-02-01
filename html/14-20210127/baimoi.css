@@ -1,0 +1,16 @@
+.nut{
+    height:50px;
+    width:50px;
+}
+.nut:hover{
+    background-color: green !important;
+}
+.hinh1{
+    background-image:url('https://www.ibsafoundation.org/wp-content/uploads/2018/08/oceano.jpg');
+    height:250px;
+}
+.hinh2{
+    height:250px;
+}
+.pic{
+    height:250px;}

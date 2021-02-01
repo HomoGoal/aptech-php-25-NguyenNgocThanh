@@ -1,0 +1,90 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@HomoGoal 
+phuocbinhcao
+/
+aptech-php-25-binhcp
+1
+00
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+aptech-php-25-binhcp/html/05-20201230/Baitapvenha/sticky/sticky.css
+@phuocbinhcao
+phuocbinhcao up bai tap lan 1
+Latest commit e929d3d 22 days ago
+ History
+ 1 contributor
+48 lines (41 sloc)  643 Bytes
+  
+body {
+  height: 100vh;
+}
+
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  bottom: 0;
+  background-color: #c5c5c2;
+  font-size: 20px;
+}
+
+.footer {
+  background-color: #f5f5f5;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.py-3 {
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+}
+
+.container {
+  width: auto;
+  padding: 0 15px;
+  max-width: 680px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.text-muted {
+  color: #6c757d !important;
+  margin-left: 1em;
+}
+
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+/*# sourceMappingURL=sticky.css.map */
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About

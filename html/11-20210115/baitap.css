@@ -1,0 +1,48 @@
+.hop{
+    height:100vh;
+}
+.row1{
+
+    border-bottom: 1px solid gray;
+}
+.nuthome{
+    height:40px;
+    width:80px;
+    
+    font-size:20px;
+    border:0;
+    border-top:10px;
+    margin-left:100px;
+    margin-top:25px;
+    margin-bottom:25px;
+}
+.tieude{
+    margin-left:300px;
+    margin-top:20px;
+    margin-bottom:25px;
+}
+.row3{
+    border-top:1px solid gray;
+}
+.hop1{
+    width:100px;
+    height:20px;
+  border-radius:5px;
+  margin-left:100px;
+}
+.nutTao{
+    width:100px;
+    height:30px;
+    margin-left:100px;
+}
+.dangki{
+    color:white !important;
+}
+.nutdangki{
+    width:200px;
+    height:30px;
+}
+.nutdangki:hover{
+    background-color:gray;
+    color:white;
+}

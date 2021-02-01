@@ -1,0 +1,35 @@
+.hop{
+    height:100px;
+}
+.hopnho{
+    height:40px;
+    width:40px;
+    border:1px solid green;
+}
+.hopnho:hover{
+    background-color: green !important;
+}
+.nut1{
+    height:40px;
+    width:110px;
+}
+.nut2{
+    height:40px;
+}
+.hop2{
+    border-bottom:1px solid black;
+}
+.hinh1{
+    background-image:url('https://znews-photo.zadn.vn/w960/Uploaded/sgorvz/2021_01_28/botruong_2.jpg');
+    height:300px;
+   
+}
+.hinh2{
+    height:300px;
+   
+}
+.nut{
+    height:20%;
+    
+}
+

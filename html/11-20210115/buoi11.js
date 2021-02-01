@@ -43,3 +43,20 @@ function taoNut(){
     btn.innerHTML="nutmoi";
     document.body.appendChild(btn);
 }
+
+function kieuKhac(){
+    var sanPham=[ ['iPhone', 10, 'my', 'nhap khau'],
+    ['Galaxy', 12, 'han quoc', 'trong nuoc'],
+    ['xiaomi', 9, 'trung quoc', 'nhap khau'],
+    ['huawei', 15, 'trung quoc', 'buon lau'],];
+    var bangKieu=document.getElementById('bangDep');
+    for(var i=0;i<sanPham.length;i++){
+        var tr=document.createElement('tr');
+        for(var j=0;j<sanPham[i].length;j++){
+            var td=document.createElement('td');
+            td.innerHTML=sanPham[i][j];
+            tr.appendChild(td);
+        }
+        bangKieu.appendChild(tr);
+    }
+}

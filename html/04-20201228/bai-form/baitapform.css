@@ -1,0 +1,52 @@
+.than{
+    background: gray;
+    width: 1000px;
+    display: flex;
+    border:1px solid black;
+    border-radius:20px;
+}
+.than-1{
+    width: 300px;
+    
+}
+.than-2{
+    width: 400px;
+    
+}
+.form{
+    background-color: orange;
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    border:1px solid black;
+    border-radius:20px;
+}
+p{
+    font-size: 85%;
+    color: white;
+}
+.form p{
+    font-size: 100%;
+    
+}
+input[type="submit"] {
+    color: rgb(175, 221, 186);
+    background: yellow;
+    width: 300px;    
+    border:1px solid black;
+    border-radius:20px;
+  }
+  input[type="text"], input[type="email"], input[type="password"] {
+    width: 300px;
+    background: white;
+  }
+  ::placeholder{
+      color: rgb(175, 221, 186);
+  }
+  h1{
+    color: rgb(235, 241, 236);
+  }
+  a{
+      color: white;
+  }
+  
