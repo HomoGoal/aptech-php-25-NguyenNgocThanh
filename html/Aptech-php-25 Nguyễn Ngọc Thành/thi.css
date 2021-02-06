@@ -1,0 +1,41 @@
+
+
+.hinh1{
+    background-image:url('https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80');
+    height:300px;
+}
+.hinh2{
+    background-image:url('https://images.unsplash.com/photo-1483389127117-b6a2102724ae?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80');
+    height:300px;
+    background-position: center;
+}
+.hinh3{
+    height:200px;
+}
+
+.abc{
+    height:250px;
+   
+    background-color:orange;
+}
+.abc2{
+    height:250px;
+    margin-top:10px;
+    background-color:green;
+}
+.trungtam{
+    height:50px;
+    width:150px;
+}
+
+.pic{
+    height:250px;
+    background-image:url('https://oceanfdn.org/wp-content/uploads/2010/08/SargassoSea.jpg');
+}
+.box1{
+    background-color: lightgray;
+}
+.nut1{
+    height:50px;
+    width:50px;
+}
